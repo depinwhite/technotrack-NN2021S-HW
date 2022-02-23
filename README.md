@@ -3,7 +3,7 @@ Here I have published the homework I did in the [Neural Networks course](https:/
 
 | Title         | Topic                                                                  | 
 | ------------- |:----------------------------------------------------------------------:| 
-| HW1           | Gradient descent with your own hands (Linear Regression) from scratch  | 
-| HW2           | Multilayer perceptron with your own hands (Neural Network from scratch |  
+| HW1           | Gradient descent with your own hands (Linear Regression from scratch)  | 
+| HW2           | Multilayer perceptron with your own hands (Neural Network from scratch)|  
 | HW3           | Multilayer perceptron on PyTorch                                       |   
 | HW6           | Autoencoders for identifying anomalies                                 |
