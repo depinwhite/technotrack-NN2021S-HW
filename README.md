@@ -1,4 +1,4 @@
-# technotrack-NN2021S-HW
+# Technotrack Neural Networks course (2021 spring)
 Here I have published the homework I did in the [Neural Networks course](https://github.com/mailcourses/technotrack-NN2021S-lectures) in spring 2021.
 
 | Title         | Topic                                                                  | 
