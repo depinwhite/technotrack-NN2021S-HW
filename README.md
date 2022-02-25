@@ -1,5 +1,5 @@
 # Technotrack Neural Networks course (2021 spring)
-Here I have published the homework I did in the [Neural Networks course](https://github.com/mailcourses/technotrack-NN2021S-lectures) in spring 2021.
+Here I have published the homework I did in the [Neural Networks course](https://github.com/mailcourses/technotrack-NN2021S-lectures).
 
 | Title         | Topic                                                                  | 
 | ------------- |:----------------------------------------------------------------------:| 
